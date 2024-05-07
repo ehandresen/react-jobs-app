@@ -49,3 +49,18 @@
       );
     };
     ```
+
+- <a href='https://www.npmjs.com/package/react-spinners'>react-spinners</a>
+
+  - <code>npm install react-spinners</code>
+  - ```jsx
+    import { FaMapMarker } from 'react-icons/fa';
+
+    const MyComponent = () => {
+      return (
+      <>
+        <FaMapMarker />;
+      </>;
+      );
+    };
+    ```
