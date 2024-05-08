@@ -64,3 +64,18 @@
       );
     };
     ```
+
+- <a href='https://www.npmjs.com/package/react-toastify'>react-toastify</a>
+
+  - <code>npm i react-toastify</code>
+  - ```jsx
+    import { FaMapMarker } from 'react-icons/fa';
+
+    const MyComponent = () => {
+      return (
+      <>
+        <FaMapMarker />;
+      </>;
+      );
+    };
+    ```
